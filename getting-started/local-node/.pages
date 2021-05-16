@@ -1,0 +1,6 @@
+title: Local Node
+arrange:
+  - setting-up-a-node.md
+  - using-metamask.md
+  - send-transaction.md
+  - deploy-contract.md

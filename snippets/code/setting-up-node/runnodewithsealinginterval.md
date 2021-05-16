@@ -1,0 +1,1 @@
+./target/release/thales --dev --sealing 6000

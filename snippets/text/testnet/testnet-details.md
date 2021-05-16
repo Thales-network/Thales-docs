@@ -1,0 +1,4 @@
+ - Network Name: `Thalesbase`
+ - New RPC URL: `https://rpc.testnet.thales.network`
+ - ChainID: `1287`
+ - Symbol (Optional): `DEV`
